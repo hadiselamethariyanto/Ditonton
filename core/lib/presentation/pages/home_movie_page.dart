@@ -7,6 +7,7 @@ import 'package:core/presentation/widgets/sub_heading.dart';
 import 'package:core/styles/text_styles.dart';
 import 'package:core/utils/constants.dart';
 import 'package:core/utils/routes.dart';
+import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';

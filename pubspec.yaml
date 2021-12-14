@@ -38,6 +38,7 @@ dependencies:
   flutter_bloc: ^8.0.0
   firebase_core: ^1.6.0
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
